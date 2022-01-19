@@ -1,0 +1,10 @@
+.payment-button button:hover {
+    background-color: rgba(56, 41, 224, 0.5);
+}
+.change-ancle a:hover {
+    color: #9b94ef;
+    text-decoration: none;
+}
+.cancel-ancle a:hover {
+    color: hsl(223, 47%, 23%);
+}

@@ -58,6 +58,7 @@ main {
 .anual-plan-title {
     color: hsl(223, 47%, 23%);
     font-weight: 700;
+    font-size: 1.5rem;
 }
 .anual-plan-cost {
     color: hsl(224, 23%, 55%);
@@ -79,6 +80,7 @@ main {
 .anual-plan-title__cost {
     display: flex;
     flex-direction: column;
+    font-size: 1.5rem;
 }
 
 .change-ancle {
@@ -105,6 +107,7 @@ main {
     font-weight: 700;
     font-size: 1.2rem;
     box-shadow: 0 10px 30px hsl(224, 23%, 55%);
+    font-family: "Red Hat Display", sans-serif;
 }
 .payment-button button:hover {
     background-color: rgba(56, 41, 224, 0.5);
